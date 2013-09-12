@@ -1,50 +1,48 @@
-# Welcome
+# Bienvenue
 
-There's a lot of outdated information on the Web that leads new PHP users astray, 
-propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read, 
-quick reference for PHP popular coding standards, links to authoritative tutorials 
-around the Web and what the contributors consider to be best practices at the present 
-time.
+Il y a beaucoup d'informations obsolètes sur le Web qui peuvent égarer les nouveaux utilisateurs PHP, 
+propageant de mauvaises pratiques et du code non sécurisé. _PHP: La bonne manière_ est une référence facile 
+et rapide à lire à propos des standards de codage PHP, contenant des liens vers les tutoriels qui font
+autorité sur le Web et les meilleures pratiques du moment aux yeux des contributeurs.
 
-_There is no canonical way to use PHP_. This website aims to introduce new PHP 
-developers to some topics which they may not discover until it is too late, and aims 
-to give seasoned pros some fresh ideas on those topics they've been doing for years 
-without ever reconsidering. This website will also not tell you which tools to use, but 
-instead offer suggestions for multiple options, when possible explaining the differences 
-in approach and use-case. 
+_Il n'y a pas de manière universelle d'utiliser PHP_. Ce site souahite présenter aux jeunes développeur
+PHP à quelques sujets qu'ils auraient pu découvrir seulement trop tard, et a pour but de rafraichir 
+les idées des devéloppeurs plus expérimenté sur les concepts qu'ils manipulent depuis des années 
+sans les avoir reconsidérés. Ce site ne va pas vous dire quels outils utiliser mais va à la place 
+proposer des suggestions pour différentes options, expliquant quand possible leurs différentes approches
+et scénarios d'utilisation. 
 
-This is a living document and will continue to be updated with more helpful information 
-and examples as they become available.
+C'est un document vivant qui va continuer d'être mis à jour avec des exemples et des informations utiles 
+au fur et à mesure.
 
-## Translations
+## Traductions
 
-_PHP: The Right Way_ is (or soon will be) translated into many different languages:
+_PHP: La bonne manière_ est traduit (ou le sera prochainement) dans plusieurs langues:
 
-* [English](http://www.phptherightway.com)
+* [Anglais](http://www.phptherightway.com)
 * Catalan (Link broken... we're looking into it)
-* [Chinese](http://wulijun.github.com/php-the-right-way)
-* [Japanese](http://ja.phptherightway.com)
-* [Korean](http://wafe.github.io/php-the-right-way/)
-* Italian (Link broken... we're looking into it)
-* [Polish](http://pl.phptherightway.com/)
-* [Portuguese](http://br.phptherightway.com/)
-* [Russian](http://getjump.github.io/ru-php-the-right-way)
-* Spanish (Link broken... we're looking into it)
-* [Ukrainian](http://iflista.github.com/php-the-right-way/)
-* [Bulgarian](http://bg.phptherightway.com/)
-* [German](http://rwetzlmayr.github.io/php-the-right-way/)
-* [Turkish](http://hkulekci.github.io/php-the-right-way/)
+* [Chinois](http://wulijun.github.com/php-the-right-way)
+* [Japonais](http://ja.phptherightway.com)
+* [Koréen](http://wafe.github.io/php-the-right-way/)
+* Italien (Link broken... we're looking into it)
+* [Polonnais](http://pl.phptherightway.com/)
+* [Portugais](http://br.phptherightway.com/)
+* [Russe](http://getjump.github.io/ru-php-the-right-way)
+* Espagnol (Link broken... we're looking into it)
+* [Ukrainien](http://iflista.github.com/php-the-right-way/)
+* [Bulgare](http://bg.phptherightway.com/)
+* [Allemand](http://rwetzlmayr.github.io/php-the-right-way/)
+* [Turque](http://hkulekci.github.io/php-the-right-way/)
 
-## How to Contribute
+## Comment contribuer
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+Aidez à faire de ce site web la meilleure ressource pour les nouveaux développeurs PHP! [Contribuer sur GitHub][1]
 
-## Spread the Word!
+## Parlez en!
 
-_PHP: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
-know where to find good information!
+_PHP: La bonne manière_ a des bannières que vous pouvez utiliser sur votre site web. Montrez votre soutien et laissez les nouveaux développeurs PHP savoirs où trouver des informations de qualités!
 
-[See Banner Images][2]
+[Voir les bannières][2]
 
-[1]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
+[1]: https://github.com/mathroc/php-the-right-way/tree/gh-pages
 [2]: /banners.html
