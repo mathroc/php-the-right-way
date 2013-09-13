@@ -2,6 +2,7 @@
 <html lang="fr">
     <head>
         <meta charset="utf-8"/>
+        <base href="../">
         <title>{% if page.title %}{{ page.title }} - {% endif %}PHP: La bonne méthode</title>
         <meta name="description" content="{{ page.description }}"/>
         <meta name="robots" content="index,follow,archive"/>
@@ -13,9 +14,9 @@
         <meta property="og:type" content="website"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
         <link href='http://fonts.googleapis.com/css?family=Alfa+Slab+One|Droid+Serif:400,700' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="/styles/all.css"/>
-        <link rel="stylesheet" href="/styles/syntax.css"/>
-        <link rel="icon" href="/images/favicon.png" type="image/png"/>
+        <link rel="stylesheet" href="styles/all.css"/>
+        <link rel="stylesheet" href="styles/syntax.css"/>
+        <link rel="icon" href="images/favicon.png" type="image/png"/>
         <script>
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-362072-7']);
@@ -29,15 +30,15 @@
     </head>
     <body>
         <header class="interior-site-header">
-            <div class="site-title"><a href="/">PHP</a></div>
+            <div class="site-title"><a href="">PHP</a></div>
             <div class="site-slogan">La bonne méthode.</div>
-            <a class="btn btn-h" href="/">Retourner à la page principale</a>
+            <a class="btn btn-h" href="">Retourner à la page principale</a>
             <a class="fork-me" href="https://github.com/mathroc/php-the-right-way">
                 <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub">
             </a>
         </header>
         <div class="interior-site-content">
-            <div class="pbh"><em>Vous lisez du contenu à propos de&hellip;</em></div>
+            <div class="pbh"><em>Vous lisez du contenu sur&hellip;</em></div>
             {{ content }}
             <footer class="site-footer" id="site-footer">
                 <p>

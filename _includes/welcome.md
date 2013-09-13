@@ -5,7 +5,7 @@ propageant de mauvaises pratiques et du code non sécurisé. _PHP: La bonne mani
 et rapide à lire à propos des standards de codage PHP, contenant des liens vers les tutoriels qui font
 autorité sur le Web et les meilleures pratiques du moment aux yeux des contributeurs.
 
-_Il n'y a pas de manière universelle d'utiliser PHP_. Ce site souahite présenter aux jeunes développeur
+_Il n'y a pas de manière universelle d'utiliser PHP_. Ce site souhaite présenter aux jeunes développeur
 PHP à quelques sujets qu'ils auraient pu découvrir seulement trop tard, et a pour but de rafraichir 
 les idées des devéloppeurs plus expérimenté sur les concepts qu'ils manipulent depuis des années 
 sans les avoir reconsidérés. Ce site ne va pas vous dire quels outils utiliser mais va à la place 
@@ -45,4 +45,4 @@ _PHP: La bonne manière_ a des bannières que vous pouvez utiliser sur votre sit
 [Voir les bannières][2]
 
 [1]: https://github.com/mathroc/php-the-right-way/tree/gh-pages
-[2]: /banners.html
+[2]: bannières.html
