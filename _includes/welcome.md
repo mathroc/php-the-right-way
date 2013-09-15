@@ -22,6 +22,7 @@ _PHP: La bonne manière_ est traduit (ou le sera prochainement) dans plusieurs l
 * [Anglais](http://www.phptherightway.com)
 * Catalan (Link broken... we're looking into it)
 * [Chinois](http://wulijun.github.com/php-the-right-way)
+* [Français (En cours de traduction)](http://mathric.github.io/php-the-right-way)
 * [Japonais](http://ja.phptherightway.com)
 * [Koréen](http://wafe.github.io/php-the-right-way/)
 * Italien (Link broken... we're looking into it)
