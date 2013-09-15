@@ -1,25 +1,23 @@
 ---
+title: Installation sur Mac
 isChild: true
 ---
 
-## Mac Setup  {#mac_setup_title}
+## Installation sur Mac  {#installation_sur_mac}
 
-OSX comes prepackaged with PHP but it is normally a little behind the latest stable. Lion comes with PHP 5.3.6 and
-Mountain Lion has 5.3.10.
+PHP est déjà installé sur OSX mais la version installé est généralement un peu en retard sur la dernière version stable. Lion contient PHP 5.3.6 et Mountain Lion à la version 5.3.10.
 
-To update PHP on OSX you can get it installed through a number of Mac [package managers][mac-package-managers], with
-[php-osx by Liip][php-osx-downloads] being recommended.
+Pour mettre à jour PHP sur OSX, vous pouvez utiliser différent [gestionnaire de packets][mac-package-managers] MAC, [php-osx de Liip][php-osx-downloads] étant recommandé.
 
-The other option is to [compile it yourself][mac-compile], in that case be sure to have installed either Xcode or
-Apple's substitute ["Command Line Tools for Xcode"][apple-developer] downloadable from Apple's Mac Developer Center.
+L'autre option est de [compiler PHP vous même][mac-compile], dans ce cas, vérifiez que vous avez Xcode ou
+son substitut, ["Les outils en Ligne de Commandes pour Xcode"][apple-developer] téléchargeable depuis from le `Mac Developer Center` d'apple.
 
-For a complete "all-in-one" package including PHP, Apache web server and MySQL database, all this with a nice control
-GUI, try [MAMP][mamp-downloads] or [XAMPP][xampp].
+Pour un package "tout-en-un" incluant PHP, le serveur Apache et la base de donnée MySQL, tout cela avec une interface de contrôle pratique, essayer [MAMP][mamp-downloads] ou [XAMPP][xampp].
 
-[mac-package-managers]: http://www.php.net/manual/en/install.macosx.packages.php
+[mac-package-managers]: http://www.php.net/manual/fr/install.macosx.packages.php
 [mac-compile]: http://www.php.net/manual/en/install.macosx.compile.php
 [xcode-gcc-substitution]: https://github.com/kennethreitz/osx-gcc-installer
 [apple-developer]: https://developer.apple.com/downloads
 [mamp-downloads]: http://www.mamp.info/en/downloads/index.html
 [php-osx-downloads]: http://php-osx.liip.ch/
-[xampp]: http://www.apachefriends.org/en/xampp.html
+[xampp]: http://www.apachefriends.org/fr/xampp.html
