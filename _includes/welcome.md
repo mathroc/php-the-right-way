@@ -46,4 +46,4 @@ _PHP: La bonne manière_ a des bannières que vous pouvez utiliser sur votre sit
 [Voir les bannières][2]
 
 [1]: https://github.com/mathroc/php-the-right-way/tree/gh-pages
-[2]: bannières.html
+[2]: banners.html
