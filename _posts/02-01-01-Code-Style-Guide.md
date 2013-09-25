@@ -30,9 +30,9 @@ qu'il respecte ces standards, vous épargnant de corriger manuellement chaque pr
 L'Anglais et la langue préférée pour tous les nom de symboles et l'infrastructure du code. Les commentaires peuvent être écrit dans n'importe quelle langue lue facilement par tous les contributeurs présent et futur.
 
 [fig]: http://www.php-fig.org/
-[psr0]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md
-[psr1]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
-[psr2]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
+[psr0]: https://github.com/php-fig/fig-standards/blob/master/accepted/fr/PSR-0.md
+[psr1]: https://github.com/php-fig/fig-standards/blob/master/accepted/fr/PSR-1-basic-coding-standard.md
+[psr2]: https://github.com/php-fig/fig-standards/blob/master/accepted/fr/PSR-2-coding-style-guide.md
 [pear-cs]: http://pear.php.net/manual/en/standards.php
 [zend-cs]: http://framework.zend.com/wiki/display/ZFDEV2/Coding+Standards
 [phpcs]: http://pear.php.net/package/PHP_CodeSniffer/
